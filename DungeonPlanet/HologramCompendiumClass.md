@@ -8,7 +8,7 @@ If your character is a hologram, choose a method of hologram projection:
 Regardless of your choice, your Load is -2 while tangible and -4 while intangible. In addition, while you are able to alter your hair and clothing, your physical appearance is preprogrammed and cannot be changed without the services of a skilled technician. Choose one "tell" which allows a keen-eyed observer to identify you as a hologram - an emblem, a characteristic flicker, or slight translucency.
 
 You gain these moves:
-#### From the Ashes, a Titan Arises
+#### Magic Smoke
 When you lose all your hit points, you don't roll for your Last Breath: the one who rebuilds or repairs you does, and deals with Death on your behalf. If they are a scientist or technician, they can roll+INT.
 
 #### Change Projection Modes
