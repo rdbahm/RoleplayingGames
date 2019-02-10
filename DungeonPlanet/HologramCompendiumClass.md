@@ -36,3 +36,6 @@ When you perform the "Last Breath" action, take +1 forward. Your projector addit
 
 #### Failsafe Systems
 When "Circuit Damage" occurs while in "tangible" mode, if you choose to deactivate your projector, the tangibility circuits disappate any damage above the amount which triggered "Circuit Damage."
+
+#### Decoupled Kinetic Generator
+When intentionally disabling projection, you may choose to retain the ability to interact and move, rendering yourself hard to see. However, your projection source is still visible.
