@@ -5,7 +5,7 @@ If your character is a hologram, choose a method of hologram projection:
 - Nano-Swarm: Your projection is produced by a swarm of nanites which each project a small potion of your projection. Losing nanites (through damage or otherwise) reduces the maximum size or density of the projection. Nanites seperated from your "body" are deactivated until recollected. When deactivated, the bonds which hold the nanites together are disabled, reducing your body to a small pile of dust until reactivated. +1HP 
 - Light Bee: A small (fist-sized or smaller) hovering projector which produces a projector. The projector is tied to the hovering system, so movement is limited or impossible while not projected. Your Light Bee contains all your sensors - for all intents and purposes, it acts as your eyes. +2HP
 
-Regardless of your choice, your Load is -2 while tangible and -4 while intangible. In addition, while you are able to alter your hair and clothing, your physical appearance is preprogrammed and cannot be changed without the services of a skilled technician.
+Regardless of your choice, your Load is -2 while tangible and -4 while intangible. In addition, while you are able to alter your hair and clothing, your physical appearance is preprogrammed and cannot be changed without the services of a skilled technician. Choose one "tell" which allows a keen-eyed observer to identify you as a hologram - an emblem, a characteristic flicker, or slight translucency.
 
 You gain these moves:
 #### From the Ashes, a Titan Arises
