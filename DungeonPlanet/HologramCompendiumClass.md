@@ -5,7 +5,7 @@ If your character is a hologram, choose a method of hologram projection:
 - Nano-Swarm: Your projection is produced by a swarm of nanites which each project a small potion of your projection. Losing nanites (through damage or otherwise) reduces the maximum size or density of the projection. Nanites seperated from your "body" are deactivated until recollected. When deactivated, the bonds which hold the nanites together are disabled, reducing your body to a small pile of dust until reactivated. +1HP 
 - Light Bee: A small (fist-sized or smaller) hovering projector which produces a projector. The projector is tied to the hovering system, so movement is limited or impossible while not projected. Your Light Bee contains all your sensors - for all intents and purposes, it acts as your eyes. +2HP
 
-Regardless of your choice, your Load is -2 while tangible and -4 while intangible.
+Regardless of your choice, your Load is -2 while tangible and -4 while intangible. In addition, while you are able to alter your hair and clothing, your physical appearance is preprogrammed and cannot be changed without the services of a skilled technician.
 
 You gain these moves:
 #### From the Ashes, a Titan Arises
@@ -23,6 +23,13 @@ When your hit points are reduced to below 4 HP, your projection system is damage
 If you are a hologram, these count as class moves for you and you can choose from them when you level up:
 #### Divide Nanites (Nano-Swarm Projection)
 If a large number of nanites have been divided from your primary form, you can transfer part of your consciousness to that set of nanites. This allows you to be in two places. Both bodies will be substantially smaller than normal, and due to the additional load on each nanite, take -1 ongoing while in this form.
+
+#### Photon Overload (Light Bee Projection)
+Overload the projector's photon emitters, blinding nearby enemies. Roll+STR. On a 10+, choose 3. On a 7+, choose 1.
+- Deal 1d4+2 damage to enemies (close).
+- Temporarily blind nearby enemies (reach).
+- Do not take 1d4 self-damage.
+- Do not deactivate your projection systems after the overload.
 
 #### Durable Projector
 When you perform the "Last Breath" action, take +1 forward. Your projector additionally gains additional armor when exposed (+1 armor when projection is deactivated)
